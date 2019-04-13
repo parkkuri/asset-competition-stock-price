@@ -1,0 +1,16 @@
+analysis_data_add_pre3 = 새로 60000개 크롤링한 데이터에 주식정보 붙인 데이터
+analysis_data10 = 18000개 크롤링한 데이터에 주식정보 붙인 데이터 (모든 카테고리 다 있음)
+anaylsis_data_new = 18000개 크롤링한 데이터에 중복 지우고, 재무제표 정보 붙인 데이터(카테고리 8개로 병합 데이터)
+bad_add_name = 새로 60000개 크롤링한 데이터에  기업명 붙인 것
+bad_add2 = 60000개 뽑은 데이터에서 불황만 뽑은 것
+bad_final = 18000개 뽑은 데이터 전처리하기 전 데이터
+
+bad_good= 호황 불황 합친 데이터
+bad_good = 호황 불황 합친 데이터에 기업명 붙인 데이터
+code = 종목코드 있는 데이터
+company_buliding = 기업 설립일 있는 데이터
+company_data_real_new = 기업 재무제표 있는 데이터
+stock (2) = 주식 4개데이터 병합한 데이터
+data_final3, data_final5 = 카테고리 라벨링 한 데이터 (class수 다름)
+real_news_anlysis = 18000개 데이터에서 기업명 붙인 데이터
+test_data_la = 18000개 데이터 전처리한 것
